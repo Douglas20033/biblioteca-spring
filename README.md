@@ -83,8 +83,6 @@ http://localhost:8080/h2-console
 
 JDBC URL: jdbc:h2:mem:testdb
 
-Importante: O H2 é ideal para testes. Se desejar usar o MySQL ou outro banco, atualize o application.properties com as credenciais corretas.
-
 🙌 Contribuição
 
 Este projeto foi desenvolvido como um trabalho acadêmico. Sugestões e melhorias são bem-vindas!
